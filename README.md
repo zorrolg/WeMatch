@@ -1,2 +1,2 @@
-# WeMatch4
+# WeMatch
 Personal Game Project
